@@ -47,6 +47,7 @@ Le rapport a été conçu pour offrir une navigation fluide et intuitive :
   
 <img width="1747" height="981" alt="accueil" src="https://github.com/user-attachments/assets/94daba6d-69b0-404f-8b2b-6508fb4b8827" />
 
+
   Dashboard Ventes:
     
 <img width="1955" height="1093" alt="dashboard ventes" src="https://github.com/user-attachments/assets/d04e1e29-05eb-4394-87a8-7f9237311b2a" />
