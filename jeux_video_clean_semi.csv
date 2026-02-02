@@ -1,0 +1,21 @@
+ID;Nom;Genre;Plateforme;Note_Moyenne;Ventes_Millions;Date_Sortie
+1;Elden Ring;RPG;PC;7.8;4.2;2022-02-25
+2;Cyberpunk 2077;RPG;PC;7.9;40.5;2020-12-10
+3;God of War;Action;PS5;8.9;27.1;2018-04-20
+4;FIFA 24;Sport;PS5;7.4;49.1;2023-09-01
+5;League of Legends;MOBA;PC;9.7;37.1;2009-10-27
+6;Minecraft;Sandbox;PC;9.8;16.4;2011-11-18
+7;Horizon Forbidden West;Action;PS5;9.3;6.4;2022-02-18
+8;Fortnite;Battle Royale;PC;9.4;48.8;2017-07-25
+9;Call of Duty;FPS;PS5;6.9;18.7;2021-11-05
+10;The Witcher 3;RPG;PC;8.0;29.0;2015-05-19
+11;Valorant;FPS;PC;9.1;43.5;2020-06-02
+12;Assassin's Creed;Action;PS5;8.5;2.7;2020-11-10
+13;GTA V;Action;PC;9.6;10.5;2013-09-17
+14;Pokemon Scarlet;RPG;Switch;7.3;19.7;2022-11-18
+15;Animal Crossing;Simulation;Switch;7.5;46.0;2020-03-20
+16;Overwatch;FPS;PC;8.4;9.8;2016-05-24
+17;Halo Infinite;FPS;Xbox;7.9;32.2;2021-12-08
+18;Super Mario Odyssey;Platformer;Switch;6.2;2.0;2017-10-27
+19;Zelda BOTW;RPG;Switch;9.4;2.4;2017-03-03
+20;Dota 2;MOBA;PC;7.0;27.5;2013-07-09
